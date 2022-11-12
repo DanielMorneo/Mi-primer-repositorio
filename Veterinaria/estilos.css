@@ -1,0 +1,99 @@
+.fondo{
+    background:url(o.jpg);
+    background-size: cover;
+    height: 125px;
+    max-width:auto;;
+    max-height:auto;
+    border-radius: 10px;
+}
+.C{
+    margin-left: 10%;
+    margin-right: 9%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+.C:hover{
+    background: rgb(86, 22, 235);
+}
+nav{
+    background:rgb(143, 136, 136);
+    padding: 9px;
+    border-radius: 10px;
+    border: solid;
+    
+}
+#ayudamos{
+    background-color: rgb(143, 136, 136);
+    border-radius: 10px;
+    display: flex;
+    border:solid;
+    margin-top: 10px; 
+   
+}
+.letra{
+    color:rgb(77, 141, 224);
+}
+.color{
+    background-color: rgb(143, 136, 136);
+    color:  rgb(86, 22, 235);
+    border-radius: 10px;
+}
+.contenedor{
+    background-color: rgb(143, 136, 136);
+    border-radius: 10px;
+    display:inline-flex;
+    border:solid;
+    margin-top: 10px; 
+}
+aside{
+    float: right ;
+    width: 30%;
+    margin-top: -35%;
+    background: rgb(143, 136, 136);
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+.control{
+    width: 80%;
+    padding: 6px;
+    border: 20%;
+    margin-bottom: 16px;
+    border: 1px solid rgb(75, 71, 63);
+    font-size: 12px;
+    }
+    .boton{
+        width: 90%;
+        background: rgb(77, 73, 73);
+        border: none;
+        padding: 10px;
+        margin: 10px;
+        font-size: 15px;
+     
+     }
+section {
+    width: 65%;
+}
+.imagen{
+    margin: 10px 10px 10px 10px;
+    width: 20%;
+    border-radius: 5%;
+    float:left;
+}
+/*footer*/
+footer {
+    background-color: rgb(143, 136, 136);
+    line-height: 1;
+    text-align: center;
+    margin-top: 1px;
+    border-radius: 10px;   
+}
+/*parrafos*/
+p{
+   margin-left: 20px;
+}
+h1{
+    text-align: center;
+}
+

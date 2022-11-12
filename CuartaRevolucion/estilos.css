@@ -1,0 +1,29 @@
+body{
+    background-image: url(/CuartaRevolucion/fondo.jpg);
+    background-size: cover;
+}
+.titulo{
+    text-align: center;
+    color: rgb(19, 19, 231);
+}
+footer{
+    padding: 5%;
+    margin-top: 10%;
+    background-color: blueviolet;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size:  18px;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+span{
+    margin-left:25%;
+}
+h3{
+    color: rgb(19, 19, 231);
+}
+h2{
+    color: rgb(19, 19, 231);
+}
